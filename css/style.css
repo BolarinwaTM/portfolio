@@ -698,8 +698,8 @@ p {
 }
 
 #contact .container {
-    margin-top: 200px;
-    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-bottom: 60px;
 }
 
 #contact .icon {
@@ -735,7 +735,7 @@ p {
 }
 
 .calendar h1 {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
     text-transform: uppercase;
     color: black;
     word-spacing: .3rem;
@@ -751,8 +751,8 @@ p {
 }
 
 iframe {
-    width: 50px;
-    height: 370px;
+    width: 320px;
+    height: 350px;
 }
 
 
