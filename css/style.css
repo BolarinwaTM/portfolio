@@ -743,6 +743,7 @@ p {
     padding-bottom: 20px;
     margin-left: 5px;
     margin-right: 5px;
+    text-align: center;
 }
 
 .calendar h1 span {
