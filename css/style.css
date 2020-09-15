@@ -668,6 +668,7 @@ p {
     max-width: 1200px;
     margin: 0 auto;
     height: 100vh;
+    margin-top: 50px;
 }
 
 #contact .contact-items {
