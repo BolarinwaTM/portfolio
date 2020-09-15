@@ -668,7 +668,6 @@ p {
     max-width: 1200px;
     margin: 0 auto;
     height: 100vh;
-    margin-top: 50px;
 }
 
 #contact .contact-items {
@@ -696,6 +695,11 @@ p {
 
 #contact .contact-item:hover {
     box-shadow: 0px 0px 5px 0 crimson;
+}
+
+#contact .container {
+    margin-top: 100px;
+    margin-bottom: 60px;
 }
 
 #contact .icon {
